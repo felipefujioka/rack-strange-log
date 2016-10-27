@@ -1,3 +1,3 @@
 require_relative 'main'
 
-run Rack::CommonLogger
+run Main
